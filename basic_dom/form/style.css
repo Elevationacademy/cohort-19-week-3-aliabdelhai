@@ -1,0 +1,45 @@
+#container{
+    width: 400px;
+    padding: 20px;
+    align-items: center;
+    position: relative;
+    background-color: rgb(89, 139, 143);
+    border: 8px solid red;
+    border-radius: 2px;
+}
+    
+#btn{
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    margin: 10px;
+    background-color: rgb(68, 63, 63);
+    width: 120px;
+    height: 50px;
+    border-radius: 4px;
+    font-size: 200%;
+    color: green;
+}
+    
+
+.birthday{
+
+    display: inline-block;
+} 
+
+#message{
+    display: block;
+    width: 200px;
+    color: red;
+    
+}
+
+.hide{
+
+    display: none;
+}
+    
+
+
+
+
